@@ -1,0 +1,16 @@
+{
+  "name": "jsnode",
+  "version": "0.0.1",
+  "description": "jsnode , json and nodejs parsing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joexce",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "jade": "^1.11.0",
+    "morgan": "^1.8.1"
+  }
+}

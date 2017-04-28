@@ -1,0 +1,19 @@
+doctype html
+html
+  head
+    title=title
+  body
+    .header
+      h1.page-title Json Parsing
+      p a sample json parsing with jade
+     
+      each item in datajson
+
+        h3=item.title
+        img(src=item.img)
+        br
+        a(href=item.link) more view
+
+
+    .main-content
+      block content
