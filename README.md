@@ -1,5 +1,5 @@
-# nodejson
-nodejson merupakan parsing data menggunakan nodejs dengan tambahan jade sebagai templatingnya
+# image-parsing
+merupakan parsing data menggunakan nodejs dengan tambahan jade sebagai templatingnya
 
 <b>content-api.json</b><br>
 file data
